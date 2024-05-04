@@ -59,7 +59,7 @@ export default {
 .image {
   width: 100%;
   height: 200px;
-  object-fit: cover;
+  object-fit: contain;
   cursor: pointer;
   background-color: rgb(219, 219, 219);
 }
